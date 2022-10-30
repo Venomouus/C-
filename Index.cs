@@ -1,3 +1,7 @@
+{
+  @Model.Produto 
+}
+
 <body>
   <h1>Tipo de Produto -Cadastrar</h1>
   <!--formulário HTML com Tag Helpers-->
