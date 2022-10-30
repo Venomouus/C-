@@ -21,7 +21,7 @@
   <div class="form-group">
     <div class="descricao">
       <input type="reset" value="Limpar" class="btn" />
-    <!--HTML Simple para envio dos dados do formulário -->
+  
   <input type="submit" value="Cadastrar" class="btn" />
     </div>
   </div>
