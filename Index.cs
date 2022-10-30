@@ -6,7 +6,7 @@
    <div class="form-horizontal"><hr />
     <div class="form-group">
       <label>Descrição</label>
-    <div class="col-md-10"><!--Caixa de Texto -->
+    <div class="descricao"><!--Caixa de Texto -->
       <input asp-for="DescricaoTipo" />
     </div>
   </div>
@@ -19,10 +19,10 @@
   </div>
   
   <div class="form-group">
-    <div class="col-md-offset-2 col-md-10">
-      <input type="reset" value="Limpar" class="btn btn-default" />
+    <div class="descricao">
+      <input type="reset" value="Limpar" class="btn" />
     <!--HTML Simple para envio dos dados do formulário -->
-  <input type="submit" value="Cadastrar" class="btn btn-default" />
+  <input type="submit" value="Cadastrar" class="btn" />
     </div>
   </div>
     <hr />
